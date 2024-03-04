@@ -29,7 +29,7 @@
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
-	<input type="reset" value="Reset" class="registerbtn"/> 
+	
   </div>
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
