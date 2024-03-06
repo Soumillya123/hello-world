@@ -26,10 +26,6 @@
     <label for="zipcode"><b>Enter Zipcode</b></label>
     <input type="text" placeholder="Enter Zipcode" name="zipcode" id="zipcode" required>
 	
-	<br>
-    <label for="landmark"><b>Enter landmark</b></label>
-    <input type="text" placeholder="Enter landmark" name="landmark" id="landmark">
-    
 	<hr>
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
